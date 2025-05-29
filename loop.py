@@ -10,5 +10,5 @@ for number in numbers:
     if number > max_value:
         max_value = number
 
-print("Smallest value:", min_value)
-print("Largest value:", max_value)
+print("Smallest number:", min_value)
+print("Largest number:", max_value)
